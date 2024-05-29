@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.c16d9589.css",
+    "main.css": "/static/css/main.f067801a.css",
     "main.js": "/static/js/main.c618d5af.js",
     "static/js/453.acca0757.chunk.js": "/static/js/453.acca0757.chunk.js",
     "static/media/twcenltc.ttf": "/static/media/twcenltc.8d897fa7d7edd048a334.ttf",
     "static/media/ITC Avant Garde Gothic Book Regular.otf": "/static/media/ITC Avant Garde Gothic Book Regular.52700c1eead12b5eba0a.otf",
     "index.html": "/index.html",
-    "main.c16d9589.css.map": "/static/css/main.c16d9589.css.map",
+    "main.f067801a.css.map": "/static/css/main.f067801a.css.map",
     "main.c618d5af.js.map": "/static/js/main.c618d5af.js.map",
     "453.acca0757.chunk.js.map": "/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c16d9589.css",
+    "static/css/main.f067801a.css",
     "static/js/main.c618d5af.js"
   ]
 }
