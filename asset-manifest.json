@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.3866adaa.css",
-    "main.js": "/static/js/main.8c895efa.js",
+    "main.css": "/static/css/main.c1176549.css",
+    "main.js": "/static/js/main.6ddf9560.js",
     "static/js/453.acca0757.chunk.js": "/static/js/453.acca0757.chunk.js",
+    "static/media/contact-image.png": "/static/media/contact-image.8f49e334bba8aba6537c.png",
     "static/media/MontBlanc-Light.ttf": "/static/media/MontBlanc-Light.b17355f83a048e81c105.ttf",
     "static/media/twcenltc.ttf": "/static/media/twcenltc.8d897fa7d7edd048a334.ttf",
     "static/media/TT Commons Regular.otf": "/static/media/TT Commons Regular.ae5bbab36817d6276df8.otf",
     "static/media/ITC Avant Garde Gothic Book Regular.otf": "/static/media/ITC Avant Garde Gothic Book Regular.52700c1eead12b5eba0a.otf",
     "index.html": "/index.html",
-    "main.3866adaa.css.map": "/static/css/main.3866adaa.css.map",
-    "main.8c895efa.js.map": "/static/js/main.8c895efa.js.map",
+    "main.c1176549.css.map": "/static/css/main.c1176549.css.map",
+    "main.6ddf9560.js.map": "/static/js/main.6ddf9560.js.map",
     "453.acca0757.chunk.js.map": "/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3866adaa.css",
-    "static/js/main.8c895efa.js"
+    "static/css/main.c1176549.css",
+    "static/js/main.6ddf9560.js"
   ]
 }
